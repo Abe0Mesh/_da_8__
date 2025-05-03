@@ -1,0 +1,365 @@
+Date,Workout Name,Duration,Exercise Name,Set Order,Weight,Reps,Step Count
+2024-10-06,Pull,1h 2m,Pull Up,1,0.0,10.0,8581
+2024-10-06,Pull,1h 2m,Pull Up,2,0.0,7.0,8581
+2024-10-06,Pull,1h 2m,Pull Up,3,0.0,4.0,8581
+2024-10-06,Pull,1h 2m,Iso-Lateral Row (Machine),1,110.0,6.0,8581
+2024-10-06,Pull,1h 2m,Iso-Lateral Row (Machine),2,110.0,5.0,8581
+2024-10-06,Pull,1h 2m,Face Pull (Cable),1,32.5,10.0,8581
+2024-10-06,Pull,1h 2m,Face Pull (Cable),2,32.5,8.0,8581
+2024-10-06,Pull,1h 2m,Incline Curl (Dumbbell),1,27.5,11.0,8581
+2024-10-06,Pull,1h 2m,Incline Curl (Dumbbell),2,27.5,8.0,8581
+2024-10-06,Pull,1h 2m,Bicep Curl (Barbell),1,50.0,10.0,8581
+2024-10-06,Pull,1h 2m,Bicep Curl (Barbell),2,50.0,7.0,8581
+2024-10-09,Evening Workout,24h 35m,Bench Press (Barbell),1,155.0,4.0,12978
+2024-10-09,Evening Workout,24h 35m,Bench Press (Barbell),2,145.0,5.0,12978
+2024-10-09,Evening Workout,24h 35m,Incline Bench Press (Smith Machine),1,70.0,11.0,12978
+2024-10-09,Evening Workout,24h 35m,Incline Bench Press (Smith Machine),2,70.0,10.0,12978
+2024-10-09,Evening Workout,24h 35m,Chest Fly,1,130.0,7.0,12978
+2024-10-09,Evening Workout,24h 35m,Triceps Dip,1,0.0,7.0,12978
+2024-10-09,Evening Workout,24h 35m,Seated Dip,1,110.0,7.0,12978
+2024-10-09,Evening Workout,24h 35m,Seated Dip,2,110.0,12.0,12978
+2024-10-09,Evening Workout,24h 35m,Single Arm Tricep,1,17.5,5.0,12978
+2024-10-09,Evening Workout,24h 35m,Single Arm Tricep,2,12.5,12.0,12978
+2024-10-09,Evening Workout,24h 35m,Lateral Raise (Cable),1,7.5,6.0,12978
+2024-10-10,Evening Workout,55m,Pull Up,1,0.0,8.0,8680
+2024-10-10,Evening Workout,55m,Pull Up,2,0.0,5.0,8680
+2024-10-10,Evening Workout,55m,Pull Up,3,27.0,10.0,8680
+2024-10-10,Evening Workout,55m,Low Row Machine ,1,100.0,6.0,8680
+2024-10-10,Evening Workout,55m,Low Row Machine ,2,100.0,5.0,8680
+2024-10-10,Evening Workout,55m,Low Row Machine ,3,100.0,5.0,8680
+2024-10-10,Evening Workout,55m,Face Pull (Cable),1,32.5,12.0,8680
+2024-10-10,Evening Workout,55m,Face Pull (Cable),2,32.5,8.0,8680
+2024-10-10,Evening Workout,55m,Incline Curl (Dumbbell),1,30.0,7.0,8680
+2024-10-10,Evening Workout,55m,Incline Curl (Dumbbell),2,27.5,7.0,8680
+2024-10-10,Evening Workout,55m,Bicep Curl (Barbell),1,50.0,11.0,8680
+2024-10-13,Morning Workout,53m,Bench Press (Barbell),1,155.0,2.0,7958
+2024-10-13,Morning Workout,53m,Bench Press (Barbell),2,145.0,4.0,7958
+2024-10-13,Morning Workout,53m,Bench Press (Barbell),3,145.0,4.0,7958
+2024-10-13,Morning Workout,53m,Incline Bench Press (Dumbbell),1,45.0,8.0,7958
+2024-10-13,Morning Workout,53m,Incline Bench Press (Dumbbell),2,45.0,9.0,7958
+2024-10-13,Morning Workout,53m,Chest Fly,1,130.0,9.0,7958
+2024-10-13,Morning Workout,53m,Seated Dip,1,120.0,6.0,7958
+2024-10-13,Morning Workout,53m,Seated Dip,2,110.0,10.0,7958
+2024-10-13,Morning Workout,53m,Lateral Raise (Cable),1,5.0,9.0,7958
+2024-10-13,Morning Workout,53m,Lateral Raise (Cable),2,5.0,7.0,7958
+2024-10-13,Morning Workout,53m,Single Arm Tricep,1,14.0,7.0,7958
+2024-10-14,Evening Workout,2h 32m,Low Row Machine ,1,110.0,9.0,10019
+2024-10-14,Evening Workout,2h 32m,Low Row Machine ,2,110.0,7.0,10019
+2024-10-14,Evening Workout,2h 32m,Low Row Machine ,3,90.0,7.0,10019
+2024-10-14,Evening Workout,2h 32m,Pull Up,1,0.0,7.0,10019
+2024-10-14,Evening Workout,2h 32m,Pull Up,2,27.0,8.0,10019
+2024-10-14,Evening Workout,2h 32m,Face Pull (Cable),1,37.49999999999999,12.0,10019
+2024-10-14,Evening Workout,2h 32m,Face Pull (Cable),2,32.5,14.0,10019
+2024-10-14,Evening Workout,2h 32m,Incline Curl (Dumbbell),1,30.0,7.0,10019
+2024-10-14,Evening Workout,2h 32m,Incline Curl (Dumbbell),2,27.5,10.0,10019
+2024-10-17,Evening Workout,40m,Bench Press (Barbell),1,155.0,4.0,9151
+2024-10-17,Evening Workout,40m,Bench Press (Barbell),2,145.0,5.0,9151
+2024-10-17,Evening Workout,40m,Bench Press (Barbell),3,115.0,6.0,9151
+2024-10-17,Evening Workout,40m,Incline Bench Press (Dumbbell),1,50.0,6.0,9151
+2024-10-17,Evening Workout,40m,Triceps Dip,1,0.0,8.0,9151
+2024-10-17,Evening Workout,40m,Triceps Dip,2,0.0,7.0,9151
+2024-10-17,Evening Workout,40m,Chest Fly,1,135.0,7.0,9151
+2024-10-17,Evening Workout,40m,Single Arm Tricep,1,13.75,10.0,9151
+2024-10-17,Evening Workout,40m,Lateral Raise (Cable),1,5.0,10.0,9151
+2024-10-22,Evening Workout,5h 28m,Bench Press (Barbell),1,155.0,5.0,12991
+2024-10-22,Evening Workout,5h 28m,Bench Press (Barbell),2,145.0,5.0,12991
+2024-10-22,Evening Workout,5h 28m,Incline Bench Press (Smith Machine),1,90.0,5.0,12991
+2024-10-22,Evening Workout,5h 28m,Incline Bench Press (Smith Machine),2,70.0,7.0,12991
+2024-10-22,Evening Workout,5h 28m,Seated Dip,1,120.0,12.0,12991
+2024-10-22,Evening Workout,5h 28m,Seated Dip,2,120.0,9.0,12991
+2024-10-22,Evening Workout,5h 28m,Single Arm Tricep,1,17.5,6.0,12991
+2024-10-22,Evening Workout,5h 28m,Lateral Raise (Cable),1,7.5,6.0,12991
+2024-10-23,Evening Workout,24h 37m,Pull Up,1,0.0,8.0,7011
+2024-10-23,Evening Workout,24h 37m,Pull Up,2,0.0,5.0,7011
+2024-10-23,Evening Workout,24h 37m,Low Row Machine ,1,120.0,6.0,7011
+2024-10-23,Evening Workout,24h 37m,Low Row Machine ,2,110.0,8.0,7011
+2024-10-23,Evening Workout,24h 37m,Reverse Fly (Machine),1,115.0,6.0,7011
+2024-10-23,Evening Workout,24h 37m,Reverse Fly (Machine),2,100.0,6.0,7011
+2024-10-23,Evening Workout,24h 37m,Incline Curl (Dumbbell),1,30.0,9.0,7011
+2024-10-23,Evening Workout,24h 37m,Incline Curl (Dumbbell),2,30.0,5.0,7011
+2024-10-23,Evening Workout,24h 37m,Bicep Curl (Barbell),1,50.0,9.0,7011
+2024-10-24,Evening Workout,31m,Squat (Smith Machine),1,205.0,5.0,9582
+2024-10-24,Evening Workout,31m,Squat (Smith Machine),2,205.0,4.0,9582
+2024-10-24,Evening Workout,31m,Seated Leg Press (Machine),1,190.0,11.0,9582
+2024-10-24,Evening Workout,31m,Single Leg Curl ,1,35.0,6.0,9582
+2024-10-27,Evening Workout,11h 35m,Bench Press (Barbell),1,155.0,5.0,10933
+2024-10-27,Evening Workout,11h 35m,Bench Press (Barbell),2,155.0,6.0,10933
+2024-10-27,Evening Workout,11h 35m,Incline Bench Press (Smith Machine),1,90.0,6.0,10933
+2024-10-27,Evening Workout,11h 35m,Incline Bench Press (Smith Machine),2,70.0,6.0,10933
+2024-10-27,Evening Workout,11h 35m,Seated Dip,1,130.0,9.0,10933
+2024-10-27,Evening Workout,11h 35m,Seated Dip,2,120.0,9.0,10933
+2024-10-27,Evening Workout,11h 35m,Chest Fly,1,135.0,8.0,10933
+2024-10-27,Evening Workout,11h 35m,Single Arm Tricep,1,17.5,6.0,10933
+2024-10-27,Evening Workout,11h 35m,Lateral Raise (Cable),1,7.5,7.0,10933
+2024-10-28,Evening Workout,1h 12m,Deadlift (Barbell),1,255.0,2.0,11062
+2024-10-28,Evening Workout,1h 12m,Deadlift (Barbell),2,225.0,6.0,11062
+2024-10-28,Evening Workout,1h 12m,Pull Up,1,0.0,5.0,11062
+2024-11-03,Evening Workout,34m,Deadlift (Barbell),1,245.00000000000003,4.0,6910
+2024-11-03,Evening Workout,34m,Deadlift (Barbell),2,245.00000000000003,3.0,6910
+2024-11-03,Evening Workout,34m,Lat Pulldown (Cable),1,60.0,6.0,6910
+2024-11-03,Evening Workout,34m,Lat Pulldown (Cable),2,60.0,4.0,6910
+2024-11-03,Evening Workout,34m,Low Row Machine ,1,120.0,7.0,6910
+2024-11-03,Evening Workout,34m,Low Row Machine ,2,120.0,4.0,6910
+2024-11-03,Evening Workout,34m,Reverse Fly (Machine),1,115.0,6.0,6910
+2024-11-03,Evening Workout,34m,Incline Curl (Dumbbell),1,30.0,7.0,6910
+2024-11-06,Evening Workout,1h 35m,Bench Press (Barbell),1,155.0,5.0,9482
+2024-11-06,Evening Workout,1h 35m,Bench Press (Barbell),2,135.0,9.0,9482
+2024-11-06,Evening Workout,1h 35m,Incline Bench Press (Barbell),1,115.0,3.0,9482
+2024-11-06,Evening Workout,1h 35m,Incline Bench Press (Barbell),2,95.0,8.0,9482
+2024-11-06,Evening Workout,1h 35m,Seated Dip,1,130.0,12.0,9482
+2024-11-06,Evening Workout,1h 35m,Seated Dip,2,130.0,9.0,9482
+2024-11-06,Evening Workout,1h 35m,Chest Fly,1,135.0,8.0,9482
+2024-11-06,Evening Workout,1h 35m,Single Arm Tricep,1,17.5,9.0,9482
+2024-11-06,Evening Workout,1h 35m,Single Arm Tricep,2,17.5,6.0,9482
+2024-11-06,Evening Workout,1h 35m,Lateral Raise (Cable),1,7.5,8.0,9482
+2024-11-06,Evening Workout,1h 35m,Lateral Raise (Cable),2,7.5,5.0,9482
+2024-11-07,Evening Workout,1h 11m,Deadlift (Barbell),1,255.0,5.0,11936
+2024-11-07,Evening Workout,1h 11m,Deadlift (Barbell),2,255.0,1.0,11936
+2024-11-07,Evening Workout,1h 11m,Deadlift (Barbell),3,225.0,5.0,11936
+2024-11-07,Evening Workout,1h 11m,Lat Pulldown (Cable),1,60.0,7.0,11936
+2024-11-07,Evening Workout,1h 11m,Lat Pulldown (Cable),2,50.0,7.0,11936
+2024-11-07,Evening Workout,1h 11m,Lat Pulldown (Cable),3,50.0,5.0,11936
+2024-11-07,Evening Workout,1h 11m,Low Row Machine ,1,120.0,7.0,11936
+2024-11-07,Evening Workout,1h 11m,Low Row Machine ,2,110.0,6.0,11936
+2024-11-07,Evening Workout,1h 11m,Low Row Machine ,3,100.0,6.0,11936
+2024-11-07,Evening Workout,1h 11m,Reverse Fly (Machine),1,105.0,7.0,11936
+2024-11-07,Evening Workout,1h 11m,Bayesian Cable Curl ,1,12.5,9.0,11936
+2024-11-07,Evening Workout,1h 11m,Bayesian Cable Curl ,2,12.5,6.0,11936
+2024-11-07,Evening Workout,1h 11m,Bicep Curl (Barbell),1,50.0,8.0,11936
+2024-11-07,Evening Workout,1h 11m,Bicep Curl (Barbell),2,50.0,5.0,11936
+2024-11-08,Evening Workout,41m,Squat (Barbell),1,205.0,4.0,9474
+2024-11-08,Evening Workout,41m,Squat (Barbell),2,185.00000000000003,4.0,9474
+2024-11-08,Evening Workout,41m,Seated Leg Press (Machine),1,210.0,11.0,9474
+2024-11-08,Evening Workout,41m,Seated Leg Curl (Machine),1,110.0,5.0,9474
+2024-11-08,Evening Workout,41m,Leg Extension (Machine),1,190.0,6.0,9474
+2024-11-08,Evening Workout,41m,Standing Calf Raise (Smith Machine),1,140.0,25.0,9474
+2024-11-08,Evening Workout,41m,Standing Calf Raise (Smith Machine),2,140.0,20.0,9474
+2024-11-11,Evening Workout,39m,Bench Press (Barbell),1,160.0,4.0,9421
+2024-11-11,Evening Workout,39m,Bench Press (Barbell),2,145.0,6.0,9421
+2024-11-11,Evening Workout,39m,Incline Bench Press (Barbell),1,105.0,6.0,9421
+2024-11-11,Evening Workout,39m,Incline Bench Press (Barbell),2,95.0,8.0,9421
+2024-11-11,Evening Workout,39m,Seated Dip,1,140.0,9.0,9421
+2024-11-11,Evening Workout,39m,Seated Dip,2,130.0,12.0,9421
+2024-11-11,Evening Workout,39m,Overhead Tricep,1,32.5,7.0,9421
+2024-11-11,Evening Workout,39m,Overhead Tricep,2,27.5,9.0,9421
+2024-11-11,Evening Workout,39m,Lateral Raise (Cable),1,7.5,9.0,9421
+2024-11-11,Evening Workout,39m,Lateral Raise (Cable),2,7.5,6.0,9421
+2024-11-12,Evening Workout,1h 26m,Deadlift (Barbell),1,265.0,2.0,6953
+2024-11-12,Evening Workout,1h 26m,Deadlift (Barbell),2,245.00000000000003,3.0,6953
+2024-11-12,Evening Workout,1h 26m,Deadlift (Barbell),3,225.0,4.0,6953
+2024-11-12,Evening Workout,1h 26m,Low Row Machine ,1,125.0,9.0,6953
+2024-11-12,Evening Workout,1h 26m,Low Row Machine ,2,125.0,7.0,6953
+2024-11-12,Evening Workout,1h 26m,Low Row Machine ,3,110.0,7.0,6953
+2024-11-12,Evening Workout,1h 26m,Lat Pulldown (Cable),1,60.0,6.0,6953
+2024-11-12,Evening Workout,1h 26m,Lat Pulldown (Cable),2,50.0,9.0,6953
+2024-11-12,Evening Workout,1h 26m,Bayesian Cable Curl ,1,14.0,10.0,6953
+2024-11-12,Evening Workout,1h 26m,Bayesian Cable Curl ,2,14.0,8.0,6953
+2024-11-12,Evening Workout,1h 26m,Bicep Curl (Barbell),1,50.0,9.0,6953
+2024-11-12,Evening Workout,1h 26m,Bicep Curl (Barbell),2,50.0,6.0,6953
+2024-11-12,Evening Workout,1h 26m,Reverse Fly (Machine),1,120.0,6.0,6953
+2024-11-12,Evening Workout,1h 26m,Reverse Fly (Machine),2,105.0,7.0,6953
+2024-11-13,Evening Workout,2h 48m,Squat (Barbell),1,205.0,6.0,10339
+2024-11-13,Evening Workout,2h 48m,Squat (Barbell),2,185.00000000000003,5.0,10339
+2024-11-13,Evening Workout,2h 48m,Squat (Barbell),3,155.0,9.0,10339
+2024-11-13,Evening Workout,2h 48m,Seated Leg Curl (Machine),1,110.0,5.0,10339
+2024-11-13,Evening Workout,2h 48m,Seated Leg Curl (Machine),2,95.0,9.0,10339
+2024-11-13,Evening Workout,2h 48m,Seated Leg Curl (Machine),3,95.0,7.0,10339
+2024-11-13,Evening Workout,2h 48m,Leg Extension (Machine),1,190.0,8.0,10339
+2024-11-13,Evening Workout,2h 48m,Leg Extension (Machine),2,190.0,6.0,10339
+2024-11-13,Evening Workout,2h 48m,Leg Extension (Machine),3,175.0,4.0,10339
+2024-11-13,Evening Workout,2h 48m,Standing Calf Raise (Smith Machine),1,160.0,12.0,10339
+2024-11-16,Afternoon Workout,1h 13m,Bench Press (Barbell),1,160.0,4.0,8118
+2024-11-16,Afternoon Workout,1h 13m,Bench Press (Barbell),2,149.99999999999997,4.0,8118
+2024-11-16,Afternoon Workout,1h 13m,Bench Press (Barbell),3,135.0,6.0,8118
+2024-11-16,Afternoon Workout,1h 13m,Iso-Lateral Chest Press (Machine),1,100.0,7.0,8118
+2024-11-16,Afternoon Workout,1h 13m,Iso-Lateral Chest Press (Machine),2,90.0,7.0,8118
+2024-11-16,Afternoon Workout,1h 13m,Iso-Lateral Chest Press (Machine),3,90.0,5.0,8118
+2024-11-16,Afternoon Workout,1h 13m,Chest Fly,1,135.0,5.0,8118
+2024-11-16,Afternoon Workout,1h 13m,Chest Fly,2,115.0,7.0,8118
+2024-11-16,Afternoon Workout,1h 13m,Chest Fly,3,100.0,7.0,8118
+2024-11-16,Afternoon Workout,1h 13m,Single Arm Tricep,1,17.5,10.0,8118
+2024-11-16,Afternoon Workout,1h 13m,Single Arm Tricep,2,17.5,9.0,8118
+2024-11-16,Afternoon Workout,1h 13m,Single Arm Tricep,3,17.5,7.0,8118
+2024-11-16,Afternoon Workout,1h 13m,Overhead Tricep,1,32.5,9.0,8118
+2024-11-16,Afternoon Workout,1h 13m,Overhead Tricep,2,32.5,6.0,8118
+2024-11-16,Afternoon Workout,1h 13m,Overhead Tricep,3,27.5,4.0,8118
+2024-11-16,Afternoon Workout,1h 13m,Lateral Raise (Cable),1,7.5,10.0,8118
+2024-11-16,Afternoon Workout,1h 13m,Lateral Raise (Cable),2,7.5,8.0,8118
+2024-11-16,Afternoon Workout,1h 13m,Lateral Raise (Cable),3,7.5,5.0,8118
+2024-11-19,Evening Workout,1h 30m,Squat (Barbell),1,215.0,3.0,6729
+2024-11-19,Evening Workout,1h 30m,Squat (Barbell),2,195.0,4.0,6729
+2024-11-19,Evening Workout,1h 30m,Squat (Barbell),3,155.0,4.0,6729
+2024-11-19,Evening Workout,1h 30m,Seated Leg Press (Machine),1,230.0,7.0,6729
+2024-11-19,Evening Workout,1h 30m,Seated Leg Curl (Machine),1,100.0,9.0,6729
+2024-11-19,Evening Workout,1h 30m,Seated Leg Curl (Machine),2,95.0,10.0,6729
+2024-11-19,Evening Workout,1h 30m,Seated Leg Curl (Machine),3,95.0,8.0,6729
+2024-11-19,Evening Workout,1h 30m,Leg Extension (Machine),1,195.0,8.0,6729
+2024-11-19,Evening Workout,1h 30m,Leg Extension (Machine),2,195.0,4.0,6729
+2024-11-21,Evening Workout,1h 3m,Bench Press (Barbell),1,160.0,4.0,8717
+2024-11-21,Evening Workout,1h 3m,Bench Press (Barbell),2,145.0,7.0,8717
+2024-11-21,Evening Workout,1h 3m,Bench Press (Barbell),3,125.0,9.0,8717
+2024-11-21,Evening Workout,1h 3m,Incline Bench Press (Barbell),1,105.0,7.0,8717
+2024-11-21,Evening Workout,1h 3m,Incline Bench Press (Barbell),2,95.0,9.0,8717
+2024-11-21,Evening Workout,1h 3m,Incline Bench Press (Barbell),3,95.0,5.0,8717
+2024-11-21,Evening Workout,1h 3m,Seated Dip,1,145.0,10.0,8717
+2024-11-21,Evening Workout,1h 3m,Seated Dip,2,145.0,8.0,8717
+2024-11-21,Evening Workout,1h 3m,Seated Dip,3,140.0,7.0,8717
+2024-11-21,Evening Workout,1h 3m,Lateral Raise (Cable),1,10.0,8.0,8717
+2024-11-21,Evening Workout,1h 3m,Lateral Raise (Cable),2,10.0,7.0,8717
+2024-11-21,Evening Workout,1h 3m,Lateral Raise (Cable),3,7.5,6.0,8717
+2024-11-21,Evening Workout,1h 3m,Overhead Tricep,1,37.49999999999999,5.0,8717
+2024-11-21,Evening Workout,1h 3m,Overhead Tricep,2,32.5,6.0,8717
+2024-11-21,Evening Workout,1h 3m,Overhead Tricep,3,27.5,3.0,8717
+2024-11-21,Evening Workout,1h 3m,Chest Fly,1,135.0,9.0,8717
+2024-11-22,Evening Workout,1h 6m,Lat Pulldown (Cable),1,60.0,10.0,11896
+2024-11-22,Evening Workout,1h 6m,Lat Pulldown (Cable),2,60.0,5.0,11896
+2024-11-22,Evening Workout,1h 6m,Lat Pulldown (Cable),3,50.0,7.0,11896
+2024-11-22,Evening Workout,1h 6m,Low Row Machine ,1,130.0,7.0,11896
+2024-11-22,Evening Workout,1h 6m,Low Row Machine ,2,130.0,6.0,11896
+2024-11-22,Evening Workout,1h 6m,Low Row Machine ,3,110.0,7.0,11896
+2024-11-22,Evening Workout,1h 6m,Seated Row (Cable),1,110.0,5.0,11896
+2024-11-22,Evening Workout,1h 6m,Seated Row (Cable),2,90.0,17.0,11896
+2024-11-22,Evening Workout,1h 6m,Bayesian Cable Curl ,1,17.5,10.0,11896
+2024-11-22,Evening Workout,1h 6m,Bayesian Cable Curl ,2,17.5,7.0,11896
+2024-11-22,Evening Workout,1h 6m,Bayesian Cable Curl ,3,17.5,11.0,11896
+2024-11-22,Evening Workout,1h 6m,Hammer Curl (Dumbbell),1,22.5,8.0,11896
+2024-11-23,Afternoon Workout,52m,Squat (Barbell),1,205.0,4.0,11542
+2024-11-23,Afternoon Workout,52m,Squat (Barbell),2,185.00000000000003,5.0,11542
+2024-11-23,Afternoon Workout,52m,Squat (Barbell),3,185.00000000000003,6.0,11542
+2024-11-23,Afternoon Workout,52m,Seated Leg Press (Machine),1,240.0,4.0,11542
+2024-11-23,Afternoon Workout,52m,Seated Leg Press (Machine),2,220.0,10.0,11542
+2024-11-23,Afternoon Workout,52m,Seated Leg Press (Machine),3,200.0,7.0,11542
+2024-11-23,Afternoon Workout,52m,Seated Leg Curl (Machine),1,110.0,8.0,11542
+2024-11-23,Afternoon Workout,52m,Seated Leg Curl (Machine),2,95.0,9.0,11542
+2024-11-23,Afternoon Workout,52m,Standing Calf Raise (Smith Machine),1,160.0,13.0,11542
+2024-11-23,Afternoon Workout,52m,Standing Calf Raise (Smith Machine),2,160.0,10.0,11542
+2024-11-25,Midday Workout,1h 4m,Bench Press (Barbell),1,160.0,4.0,10560
+2024-11-25,Midday Workout,1h 4m,Bench Press (Barbell),2,170.0,3.0,10560
+2024-11-25,Midday Workout,1h 4m,Bench Press (Barbell),3,135.0,9.0,10560
+2024-11-25,Midday Workout,1h 4m,Incline Bench Press (Barbell),1,115.0,5.0,10560
+2024-11-25,Midday Workout,1h 4m,Incline Bench Press (Barbell),2,105.0,7.0,10560
+2024-11-25,Midday Workout,1h 4m,Incline Bench Press (Barbell),3,95.0,6.0,10560
+2024-11-25,Midday Workout,1h 4m,Seated Dip,1,170.0,8.0,10560
+2024-11-25,Midday Workout,1h 4m,Seated Dip,2,170.0,6.0,10560
+2024-11-25,Midday Workout,1h 4m,Seated Dip,3,140.0,6.0,10560
+2024-11-25,Midday Workout,1h 4m,Chest Fly,1,135.0,8.0,10560
+2024-11-25,Midday Workout,1h 4m,Chest Fly,2,115.0,5.0,10560
+2024-11-25,Midday Workout,1h 4m,Lateral Raise (Cable),1,10.0,10.0,10560
+2024-11-25,Midday Workout,1h 4m,Lateral Raise (Cable),2,10.0,8.0,10560
+2024-12-02,Evening Workout,3h 46m,Weird Pull down ,1,120.0,7.0,11350
+2024-12-02,Evening Workout,3h 46m,Weird Pull down ,2,100.0,6.0,11350
+2024-12-02,Evening Workout,3h 46m,Weird Pull down ,3,90.0,12.0,11350
+2024-12-02,Evening Workout,3h 46m,Low Row Machine ,1,140.0,5.0,11350
+2024-12-02,Evening Workout,3h 46m,Low Row Machine ,2,130.0,5.0,11350
+2024-12-02,Evening Workout,3h 46m,Low Row Machine ,3,110.0,7.0,11350
+2024-12-02,Evening Workout,3h 46m,Seated Row (Cable),1,110.0,6.0,11350
+2024-12-02,Evening Workout,3h 46m,Seated Row (Cable),2,100.0,7.0,11350
+2024-12-02,Evening Workout,3h 46m,Reverse Fly (Machine),1,120.0,7.0,11350
+2024-12-02,Evening Workout,3h 46m,Reverse Fly (Machine),2,100.0,10.0,11350
+2024-12-02,Evening Workout,3h 46m,Bayesian Cable Curl ,1,20.0,12.0,11350
+2024-12-02,Evening Workout,3h 46m,Bayesian Cable Curl ,2,20.0,9.0,11350
+2024-12-02,Evening Workout,3h 46m,Bayesian Cable Curl ,3,20.0,7.0,11350
+2024-12-02,Evening Workout,3h 46m,Preacher Curl (Machine),1,50.0,7.0,11350
+2024-12-02,Evening Workout,3h 46m,Preacher Curl (Machine),2,50.0,7.0,11350
+2024-12-03,Evening Workout,22h 33m,Squat (Barbell),1,205.0,6.0,7776
+2024-12-03,Evening Workout,22h 33m,Squat (Barbell),2,205.0,3.0,7776
+2024-12-03,Evening Workout,22h 33m,Squat (Barbell),3,185.00000000000003,5.0,7776
+2024-12-03,Evening Workout,22h 33m,Seated Leg Press (Machine),1,235.0,7.0,7776
+2024-12-03,Evening Workout,22h 33m,Seated Leg Press (Machine),2,235.0,4.0,7776
+2024-12-03,Evening Workout,22h 33m,Seated Leg Press (Machine),3,210.0,6.0,7776
+2024-12-03,Evening Workout,22h 33m,Seated Leg Curl (Machine),1,115.0,6.0,7776
+2024-12-03,Evening Workout,22h 33m,Seated Leg Curl (Machine),2,100.0,8.0,7776
+2024-12-04,Evening Workout,1h 22m,Bench Press (Barbell),1,165.0,3.0,8866
+2024-12-04,Evening Workout,1h 22m,Bench Press (Barbell),2,165.0,3.0,8866
+2024-12-04,Evening Workout,1h 22m,Bench Press (Barbell),3,145.0,5.0,8866
+2024-12-04,Evening Workout,1h 22m,Incline Bench Press (Barbell),1,115.0,6.0,8866
+2024-12-04,Evening Workout,1h 22m,Incline Bench Press (Barbell),2,105.0,8.0,8866
+2024-12-04,Evening Workout,1h 22m,Incline Bench Press (Barbell),3,105.0,7.0,8866
+2024-12-04,Evening Workout,1h 22m,Chest Fly,1,135.0,10.0,8866
+2024-12-04,Evening Workout,1h 22m,Chest Fly,2,135.0,6.0,8866
+2024-12-04,Evening Workout,1h 22m,Chest Fly,3,115.0,5.0,8866
+2024-12-04,Evening Workout,1h 22m,Seated Dip,1,170.0,8.0,8866
+2024-12-04,Evening Workout,1h 22m,Seated Dip,2,170.0,6.0,8866
+2024-12-04,Evening Workout,1h 22m,Seated Dip,3,140.0,9.0,8866
+2024-12-04,Evening Workout,1h 22m,Lateral Raise (Cable),1,12.5,4.0,8866
+2024-12-04,Evening Workout,1h 22m,Lateral Raise (Cable),2,10.0,9.0,8866
+2024-12-04,Evening Workout,1h 22m,Overhead Tricep,1,37.49999999999999,10.0,8866
+2024-12-04,Evening Workout,1h 22m,Overhead Tricep,2,32.5,9.0,8866
+2024-12-04,Evening Workout,1h 22m,Overhead Tricep,3,32.5,9.0,8866
+2024-12-07,Afternoon Workout,5h 35m,Weird Pull down ,1,120.0,8.0,6214
+2024-12-07,Afternoon Workout,5h 35m,Weird Pull down ,2,105.0,9.0,6214
+2024-12-07,Afternoon Workout,5h 35m,Weird Pull down ,3,105.0,6.0,6214
+2024-12-07,Afternoon Workout,5h 35m,Low Row Machine ,1,140.0,5.0,6214
+2024-12-07,Afternoon Workout,5h 35m,Low Row Machine ,2,130.0,7.0,6214
+2024-12-07,Afternoon Workout,5h 35m,Low Row Machine ,3,130.0,4.0,6214
+2024-12-07,Afternoon Workout,5h 35m,Bayesian Cable Curl ,1,22.5,8.0,6214
+2024-12-07,Afternoon Workout,5h 35m,Bayesian Cable Curl ,2,22.5,5.0,6214
+2024-12-07,Afternoon Workout,5h 35m,Bayesian Cable Curl ,3,20.0,10.0,6214
+2024-12-07,Afternoon Workout,5h 35m,Seated Row (Cable),1,110.0,7.0,6214
+2024-12-07,Afternoon Workout,5h 35m,Seated Row (Cable),2,100.0,4.0,6214
+2024-12-07,Afternoon Workout,5h 35m,Single Arm Reverse Fly,1,55.0,7.0,6214
+2024-12-07,Afternoon Workout,5h 35m,Single Arm Reverse Fly,2,45.0,7.0,6214
+2024-12-07,Afternoon Workout,5h 35m,Preacher Curl (Machine),1,50.0,12.0,6214
+2024-12-07,Afternoon Workout,5h 35m,Preacher Curl (Machine),2,50.0,8.0,6214
+2024-12-08,Evening Workout,46m,Squat (Barbell),1,215.0,4.0,9853
+2024-12-08,Evening Workout,46m,Squat (Barbell),2,195.0,5.0,9853
+2024-12-08,Evening Workout,46m,Squat (Barbell),3,185.00000000000003,4.0,9853
+2024-12-08,Evening Workout,46m,Seated Leg Press (Machine),1,210.0,8.0,9853
+2024-12-08,Evening Workout,46m,Seated Leg Press (Machine),2,210.0,9.0,9853
+2024-12-08,Evening Workout,46m,Seated Leg Press (Machine),3,210.0,5.0,9853
+2024-12-08,Evening Workout,46m,Seated Leg Curl (Machine),1,115.0,9.0,9853
+2024-12-08,Evening Workout,46m,Seated Leg Curl (Machine),2,115.0,4.0,9853
+2024-12-08,Evening Workout,46m,Seated Leg Curl (Machine),3,90.0,6.0,9853
+2024-12-08,Evening Workout,46m,Standing Calf Raise (Smith Machine),1,160.0,15.0,9853
+2024-12-09,Evening Workout,1h 19m,Bench Press (Barbell),1,155.0,8.0,7922
+2024-12-09,Evening Workout,1h 19m,Bench Press (Barbell),2,145.0,7.0,7922
+2024-12-09,Evening Workout,1h 19m,Bench Press (Barbell),3,135.0,7.0,7922
+2024-12-09,Evening Workout,1h 19m,Incline Bench Press (Barbell),1,115.0,6.0,7922
+2024-12-09,Evening Workout,1h 19m,Incline Bench Press (Barbell),2,105.0,8.0,7922
+2024-12-09,Evening Workout,1h 19m,Incline Bench Press (Barbell),3,105.0,5.0,7922
+2024-12-09,Evening Workout,1h 19m,Chest Fly,1,145.0,8.0,7922
+2024-12-09,Evening Workout,1h 19m,Chest Fly,2,145.0,4.0,7922
+2024-12-09,Evening Workout,1h 19m,Chest Fly,3,120.0,4.0,7922
+2024-12-09,Evening Workout,1h 19m,Seated Dip,1,170.0,8.0,7922
+2024-12-09,Evening Workout,1h 19m,Seated Dip,2,170.0,6.0,7922
+2024-12-09,Evening Workout,1h 19m,Seated Dip,3,140.0,10.0,7922
+2024-12-09,Evening Workout,1h 19m,Overhead Tricep,1,42.5,6.0,7922
+2024-12-09,Evening Workout,1h 19m,Overhead Tricep,2,37.49999999999999,6.0,7922
+2024-12-09,Evening Workout,1h 19m,Overhead Tricep,3,32.5,7.0,7922
+2024-12-09,Evening Workout,1h 19m,Lateral Raise (Cable),1,12.5,5.0,7922
+2024-12-09,Evening Workout,1h 19m,Lateral Raise (Cable),2,10.0,8.0,7922
+2024-12-09,Evening Workout,1h 19m,Lateral Raise (Cable),3,10.0,4.0,7922
+2024-12-10,Evening Workout,48h 49m,Lat Pulldown (Cable),1,70.0,4.0,6906
+2024-12-10,Evening Workout,48h 49m,Lat Pulldown (Cable),2,60.0,9.0,6906
+2024-12-10,Evening Workout,48h 49m,Lat Pulldown (Cable),3,50.0,8.0,6906
+2024-12-10,Evening Workout,48h 49m,Low Row Machine ,1,140.0,6.0,6906
+2024-12-10,Evening Workout,48h 49m,Low Row Machine ,2,130.0,8.0,6906
+2024-12-10,Evening Workout,48h 49m,Low Row Machine ,3,130.0,5.0,6906
+2024-12-10,Evening Workout,48h 49m,Single Arm Reverse Fly,1,60.0,7.0,6906
+2024-12-10,Evening Workout,48h 49m,Single Arm Reverse Fly,2,50.0,13.0,6906
+2024-12-10,Evening Workout,48h 49m,Bayesian Cable Curl ,1,27.5,4.0,6906
+2024-12-10,Evening Workout,48h 49m,Bayesian Cable Curl ,2,22.5,7.0,6906
+2024-12-10,Evening Workout,48h 49m,Bayesian Cable Curl ,3,22.5,6.0,6906
+2024-12-10,Evening Workout,48h 49m,Preacher Curl (Machine),1,60.0,12.0,6906
+2024-12-12,Evening Workout,2h 32m,Squat (Barbell),1,225.0,2.0,9358
+2024-12-12,Evening Workout,2h 32m,Squat (Barbell),2,215.0,3.0,9358
+2024-12-12,Evening Workout,2h 32m,Squat (Barbell),3,185.00000000000003,5.0,9358
+2024-12-12,Evening Workout,2h 32m,Seated Leg Press (Machine),1,240.0,6.0,9358
+2024-12-12,Evening Workout,2h 32m,Seated Leg Press (Machine),2,235.0,5.0,9358
+2024-12-12,Evening Workout,2h 32m,Seated Leg Press (Machine),3,210.0,7.0,9358
+2024-12-12,Evening Workout,2h 32m,Seated Leg Curl (Machine),1,115.0,7.0,9358
+2024-12-12,Evening Workout,2h 32m,Seated Leg Curl (Machine),2,100.0,11.0,9358
+2024-12-12,Evening Workout,2h 32m,Seated Leg Curl (Machine),3,100.0,6.0,9358
+2024-12-12,Evening Workout,2h 32m,Leg Extension (Machine),1,195.0,10.0,9358
+2024-12-12,Evening Workout,2h 32m,Leg Extension (Machine),2,195.0,6.0,9358
+2024-12-12,Evening Workout,2h 32m,Leg Extension (Machine),3,185.00000000000003,6.0,9358
+2024-12-17,Evening Workout,25m,Squat (Barbell),1,225.0,3.0,4372
+2024-12-17,Evening Workout,25m,Squat (Barbell),2,205.0,3.0,4372
+2024-12-17,Evening Workout,25m,Squat (Barbell),3,185.00000000000003,5.0,4372
+2024-12-18,Afternoon Workout,71h 52m,Bench Press (Barbell),1,155.0,5.0,4102
+2024-12-18,Afternoon Workout,71h 52m,Bench Press (Barbell),2,145.0,7.0,4102
+2024-12-21,Afternoon Workout,9m,Squat (Barbell),1,225.0,4.0,3770
+2024-12-21,Afternoon Workout,9m,Squat (Barbell),2,205.0,4.0,3770
+2024-12-26,Evening Workout,53m,Bench Press (Barbell),1,155.0,7.0,3841
+2024-12-26,Evening Workout,53m,Bench Press (Barbell),2,145.0,8.0,3841
+2024-12-26,Evening Workout,53m,Incline Bench Press (Dumbbell),1,50.0,6.0,3841
